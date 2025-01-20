@@ -17,7 +17,7 @@ dist-ssr/
 # Environment files
 *.local
 .env
-config
+config.env
 
 # MongoDB (backend specific)
 data/db/
